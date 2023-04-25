@@ -14,7 +14,7 @@ Requirements for the program
     - Number of fastest laps
     - Number of Podiums
 - The deck is loaded from a csv file into a list of dictionaries
-- The deck list is randomized
+- The deck list is shuffled
 - The deck is split in half and given to player and computer
 - At each turn:
     1. The player is shown his top card with all info
