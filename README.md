@@ -2,6 +2,17 @@
 Requirements for the program
 ----------------------------
 
+! Important !
+Due to personal time constraint I have not finished working on this project. As stated in the description of this task:
+"Note: due to potentially needing to wait for the pair-programming sessions, you can work on this project in parallel 
+to the main project. In extreme cases, you may even continue and complete this part after you have passed this sprint’s 
+corrections."
+I will finish this task as soon as I have committed the main project of this sprint.
+Sorry! But there are serious objective reasons for this delay.
+
+As a compensation, this program will be a little bit more interesting than the requirements of this task prescribe. (As
+you can see in the description below. :)
+
 - The human player plays against the computer
 - At the beginning, a welcome message with the rules is printed
 - Human player is asked for his name
