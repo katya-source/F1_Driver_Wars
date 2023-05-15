@@ -1,3 +1,5 @@
+"""My pair programming project"""
+
 import csv
 import random
 import sys
